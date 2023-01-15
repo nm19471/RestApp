@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/RestApp/static/css/main.fb0f5ccf.css",
+    "main.js": "/RestApp/static/js/main.77dce454.js",
+    "index.html": "/RestApp/index.html",
+    "main.fb0f5ccf.css.map": "/RestApp/static/css/main.fb0f5ccf.css.map",
+    "main.77dce454.js.map": "/RestApp/static/js/main.77dce454.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fb0f5ccf.css",
+    "static/js/main.77dce454.js"
+  ]
+}
