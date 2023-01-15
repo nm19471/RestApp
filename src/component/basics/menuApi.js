@@ -29,7 +29,7 @@ const Menu = [
     },
     {
       id: 4,
-      image: "../images/chola.jpg",
+      image: "/images/chola.jpg",
       name: "chola",
       category: "lunch",
       price: "50₹",
@@ -38,7 +38,7 @@ const Menu = [
     },
     {
       id: 5,
-      image: "../images/mushrooms.JPG",
+      image: "/images/mushrooms.JPG",
       name: "Mushroom",
       category: "dinner",
       price: "80₹",
@@ -47,7 +47,7 @@ const Menu = [
     },
     {
       id: 6,
-      image: "../images/pullaw1.jpg",
+      image: "/images/pullaw1.jpg",
       name: "Rice Pullaw",
       category: "dinner",
       price: "180₹",
@@ -56,7 +56,7 @@ const Menu = [
     },
     {
       id: 7,
-      image: "../images/chowmin.jpg",
+      image: "/images/chowmin.jpg",
       name: "Chowmin",
       category: "breakfast",
       price: "60₹",
@@ -65,7 +65,7 @@ const Menu = [
     },
     {
       id: 8,
-      image: "../images/dal1.jpg",
+      image: "/images/dal1.jpg",
       name: "dal",
       category: "lunch",
       price: "60₹",
@@ -74,7 +74,7 @@ const Menu = [
     },
     {
       id: 9,
-      image: "../images/dosa1.jpg",
+      image: "/images/dosa1.jpg",
       name: "Dosa",
       category: "evening",
       price: "10₹",
@@ -83,7 +83,7 @@ const Menu = [
     },
   {
     id: 10,
-    image: "../images/rice2.jpg",
+    image: "/images/rice2.jpg",
     name: "Rice",
     category: "lunch",
     price: "60₹",
